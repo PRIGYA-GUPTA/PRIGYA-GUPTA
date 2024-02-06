@@ -20,6 +20,7 @@ Hi there,
 
 As a Front End Developer, I specialize in sculpting visually captivating user interfaces using the latest tools and technologies such as HTML5, CSS, JavaScript, ReactJs, Bootstrap, and Firebase. With a careful attention to design and a strong commitment to being creative, I create smooth digital experiences that charm and capture users' attention. Let's collaborate to craft extraordinary web applications that dazzle and delight on the front end!
 
+<!--
 ### Tools
 
 ![Tool 1](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif)
@@ -27,5 +28,5 @@ As a Front End Developer, I specialize in sculpting visually captivating user in
 ![Tool 3](https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif)
 ![Tool 4](https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif)
 
-![Profile](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)
+![Profile](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif) -->
 
