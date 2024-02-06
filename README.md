@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50%">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10%">
 
 <!--
 **PRIGYA-GUPTA/PRIGYA-GUPTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
