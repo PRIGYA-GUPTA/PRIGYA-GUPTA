@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) Hi there 👋
 
 <!--
 **PRIGYA-GUPTA/PRIGYA-GUPTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Header](./github-header.png)
 
-Hi there,
+
 
 As a Front End Developer, I specialize in sculpting visually captivating user interfaces using the latest tools and technologies such as HTML5, CSS, JavaScript, ReactJs, Bootstrap, and Firebase. With a careful attention to design and a strong commitment to being creative, I create smooth digital experiences that charm and capture users' attention. Let's collaborate to craft extraordinary web applications that dazzle and delight on the front end!
 
