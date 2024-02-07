@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Header](./github-header.png)
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2%">
-___
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2%">
+
 
 
 
