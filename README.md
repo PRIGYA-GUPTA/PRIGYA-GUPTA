@@ -67,6 +67,11 @@ As a Front End Developer, I specialize in sculpting visually captivating user in
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100"> -->
 </div>
 <br><br>    
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PRIGYA-GUPTA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PRIGYA-GUPTA&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIGYA-GUPTA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
